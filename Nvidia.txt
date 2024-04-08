@@ -1,0 +1,22 @@
+"The Way It's Meant to be Played" vs "Invent"
+Nvidia reigns supreme in the discreet GPU market, boasting a staggering 1792% share price increase over five years, nearly 19-fold increase in value. (Nvidia’s tagline: "The Way It's Meant to be Played")
+
+In contrast, Danaher Corporation saw a much more modest growth of 91% during the same period. Danaher Corporation, a global conglomerate based in Washington, D.C., specializes in three sectors: life sciences, biotechnology, and clinical diagnostics. Early adoption of Kaizen (Japanese for 'improvement') in daily operations sets it apart as an early innovator. Notably, it is the only S&P 500 company with a succinct, one-word tagline. ((Danaher Corp’s tagline: "Invent")
+
+It’s instructive to analyse both company’s taglines using AIDA framework:
+
+Attention
+Both companies capture the attention of their target audience, albeit in distinct ways. Danaher's laconic tagline, "Invent," sparks curiosity about their innovations, suggesting Danaher's pivotal role as a driving force of invention. Meanwhile, Nvidia's tagline guarantees the ultimate gaming experience." 
+
+Interest
+Curiosity is synonymous with interest. Thus, Danaher effectively achieves its goal with its tagline 'Invent. Yet, the addition of an intriguing phrase could enhance audience interest, although at the expense of brevity. In contrast, Nvidia's tagline omits any mention of its products or their applications, resulting in a lack of personal interest on my part. 
+
+Desire
+Nvidia emerges as the clear winner: its tagline evokes a desire for the perfect gaming experience that Nvidia purportedly provides. In contrast, Danaher's tagline, on its own, does not directly instill a sense of desire. 
+
+Action, (CTA call-to-action)
+The brevity of "Invent" offers an alternative interpretation: at face value, it prompts the audience to innovate (= to be creative and bring new ideas to life: Invent!). In contrast, I struggle to identify any clear call to action in Nvidia's tagline. 
+
+The well-crafted Danaher Corp’s tagline has proven to be surprisingly rich in meaning. It's worth noting that in its early days, Nvidia experimented with various taglines. Reportedly, Nvidia used the tagline "green with envy" to promote some of its GPU lineup, and even employed the phrase "Crank that S#!T up!"(meaning “turn up the volume“)—introducing profanity to connect with gamers. 
+
+Maybe Nvidia could consider a shorter and punchier tagline? “The Cutting Edge” (or just “The Edge”); “Unleash Frame Reality” (or just “Frame Reality” as the word “unleash” seems to be over-used); or a play on words “Power Your Vision”...

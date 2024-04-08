@@ -1,0 +1,17 @@
+Tagline Tussle: Accounting Giants Overlook the Power of Effective Marketing?
+
+The Big 4 accounting firms (EY, Deloitte, PwC, and KPMG) dominate the accounting industry, collectively handling SEC audits for over 80% of all public companies. This dominance is attributed in part to legal requirements and also to their expertise in professional services.
+
+This leads me to expect that they excel in marketing themselves effectively. Is this the case? Each of the four firms has an "About Us" or similar section on their websites, outlining their purpose and values. While their offerings to clients are nearly identical, their marketing strategies diverge significantly.
+
+Only three of them directly demonstrate their taglines: EY - "Building a better working world," Deloitte - “Making an impact that matters, together,” and PwC - “Building relationships, creating value.” KPMG, on the other hand, lacks a specific tagline but utilizes marketing messages such as “KPMG. Make the difference” or previously - “Inspire confidence. Empower change.” A web search also reveals Deloitte's former message: “Always One Step Ahead.”
+
+Accounting firms have 3 major objectives in marketing:
+Differentiation: Taglines serve to distinguish accounting firms by communicating a unique value proposition or area of expertise.
+Expertise: Taglines convey expertise, thereby building trust with potential clients.
+Value Proposition: A clear and concise tagline should effectively communicate the benefits clients can expect to receive.
+They assess marketing effectiveness by monitoring tagline recall and association among target clients and the public. This is done through metrics such as brand recall, association, and sentiment analysis, in addition to analyzing website traffic and gathering client feedback.
+
+To evaluate the effectiveness of all six taglines, I utilised several free AI chat bots to rank them based on the three objectives and provide explanations for their rankings. An initial observation reveals that rankings from the same chat bot are unstable, varying even with ridentical prompts. Thus, employing multiple prompting and aggregating scores through voting or averaging makes sense. Additionally, none of the taglines fulfills all three objectives.
+
+Still, the procedure did yield a winner: “Inspire confidence. Empower change,” previously utilised by KPMG but since discarded. This tagline effectively conveys a dual commitment to both trust and transformation. Your own experimentation with ranking may lead to different conclusions—feel free to share your findings in the comments.
