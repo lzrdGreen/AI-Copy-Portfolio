@@ -13,10 +13,9 @@ Slogans are also short, catchy phrases, but they are more campaign-specific and 
 Jingle -a short slogan, verse, or tune designed to be easily remembered, especially as used in advertising.
 
 Target audience - understand it!
-their needs and pain points; needs, motivations, and preferences
+Their needs and pain points; needs, motivations, and preferences
 
-Search intent defines keywords for SEO 
-Tailor the messaging / your copy to resonate with the audience, with their specific needs
+Search intent defines keywords for SEO. Tailor the messaging / your copy to resonate with the audience, with their specific needs
 
 Take into account Client's brand voice (and style guidelines)
 
@@ -27,5 +26,5 @@ Product: differentiation factors, unique selling points, benefits (=value propos
 SEO, relevant keywords 
 -> specific search intent behind the target keywords, whether that's informational, navigational, or transactional.
 
-Use power words
+Use power words! 
 Power Words = Emotional Words Packed with Persuasion
