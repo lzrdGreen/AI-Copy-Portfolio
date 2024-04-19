@@ -1,6 +1,8 @@
 # AI-Copy-Portfolio
 # AI Copy Portfolio
-This repo contains text files with [my posts on LinkedIn](https://www.linkedin.com/in/alexander-parshakov/) dedicated to AI generated taglines, slogans and jingles
+This repo contains text files with [my posts on LinkedIn](https://www.linkedin.com/in/alexander-parshakov/) dedicated to AI generated taglines, slogans and jingles.
+
+It also contains a series of posts "Iconic/ Distinctive Marketing Campains" about IBM, GE; Adobe, Salesforce, HubSpot
 
 Taglines (brand statement) are short, memorable phrases that encapsulate a brand's essence, values, and personality. They are typically 3-8 words long and are used consistently across all marketing materials to build brand recognition
 
